@@ -1,0 +1,19 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "this is a calculator",
+  "main": "lab3.js",
+  "dependencies": {
+    "npm": "^3.10.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Vaishali",
+  "license": "ISC"
+}
